@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 😉 Get in Touch
+- Blog: https://roroiii.coderbridge.io/
+- Notes: https://hackmd.io/@roroiii
+
 <!--
 **roroiii/roroiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
