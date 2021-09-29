@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 😉 Get in Touch
-- Blog: https://roroiii.coderbridge.io/
+- Blog: https://roroiii.coderbridge.io
 - Notes: https://hackmd.io/@roroiii
 
 <!--
