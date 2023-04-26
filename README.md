@@ -2,6 +2,9 @@
 
 ## 😉 
 
+I'm a front-end engineer who switched from marketing to coding by myself.
+
+I'm excited to share my learning process with you and hope you find it helpful and inspiring.
 <!--
 **roroiii/roroiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
