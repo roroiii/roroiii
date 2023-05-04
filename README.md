@@ -12,11 +12,12 @@ I'm excited to share my learning process with you and hope you find it helpful a
 
 ### Latest open source projects
 
-
-
+- :black_joker:	 2023 May - [Memory Card Game 記憶卡牌小遊戲](https://github.com/roroiii/memory-card-game)
 - :bar_chart: 2023 April - [Government Open Source Regional Population Statistics Charts 政府開源地區人口統計圖表](https://github.com/roroiii/gov-people-data)
 
-- :black_joker:	 2023 May - [Memory Card Game 記憶卡牌小遊戲](https://github.com/roroiii/memory-card-game)
+- :ticket: 2023 February [EzTokenPass 區塊鏈門票驗證系統](https://github.com/gicpeatc82/EzTokenPass-Frontend)
+- :cake: 2021 [cake Shoping 蛋糕很香](https://github.com/roroiii/cakeShoping)
+- :memo: 2021 [Redux blog 簡單部落格](https://github.com/roroiii/react-redux-blog)
 
 <!--
 **roroiii/roroiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
