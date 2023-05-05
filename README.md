@@ -1,10 +1,21 @@
-### Hi there 👋
+### Hi there 👋  
 
-## 😉
+## 😉 It's Tina ![](https://img.shields.io/static/v1?label=idemy&message=[MTR04]&style=flat&branch=6.x&logo=librarything&colorA=ca4141&colorB=fff)
+
 
 I'm a front-end engineer who switched from marketing to coding by myself.
 
 I'm excited to share my learning process with you and hope you find it helpful and inspiring.
+
+
+<div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=roroiii" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=roroiii" height="150" alt="languages graph"  />
+</div>
+
+
+
+
 
 
 ##
@@ -12,12 +23,13 @@ I'm excited to share my learning process with you and hope you find it helpful a
 
 ### Latest open source projects
 
-- :black_joker:	 2023 May - [Memory Card Game 記憶卡牌小遊戲](https://github.com/roroiii/memory-card-game)
-- :bar_chart: 2023 April - [Government Open Source Regional Population Statistics Charts 政府開源地區人口統計圖表](https://github.com/roroiii/gov-people-data)
+- :black_joker:	 2023 May - [Memory Card Game](https://github.com/roroiii/memory-card-game)
+- :bar_chart: 2023 April - [Government Open Source Regional Population Statistics Charts](https://github.com/roroiii/gov-people-data)
 
-- :ticket: 2023 February [EzTokenPass 區塊鏈門票驗證系統](https://github.com/gicpeatc82/EzTokenPass-Frontend)
-- :cake: 2021 [cake Shoping 蛋糕很香](https://github.com/roroiii/cakeShoping)
-- :memo: 2021 [Redux blog 簡單部落格](https://github.com/roroiii/react-redux-blog)
+- :ticket: 2023 February [EzTokenPass](https://github.com/gicpeatc82/EzTokenPass-Frontend)
+- :cake: 2021 [cake Shoping](https://github.com/roroiii/cakeShoping)
+- :memo: 2021 [Redux blog](https://github.com/roroiii/react-redux-blog)
+
 
 <!--
 **roroiii/roroiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
