@@ -23,7 +23,7 @@ I'm excited to share my learning process with you and hope you find it helpful a
 
 ### Latest open source projects
 
-- :black_joker:	 2023 May - [Memory Card Game](https://github.com/roroiii/memory-card-game)
+- :black_joker:	 2023 May - [Memory Card Game](https://github.com/roroiii/memory-card-game-vite)
 - :bar_chart: 2023 April - [Government Open Source Regional Population Statistics Charts](https://github.com/roroiii/gov-people-data)
 
 - :ticket: 2023 February [EzTokenPass](https://github.com/gicpeatc82/EzTokenPass-Frontend)
