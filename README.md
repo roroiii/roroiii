@@ -1,6 +1,7 @@
 
 
-## 😉 It's Pinellia [![](https://img.shields.io/static/v1?label=idemy&message=[MTR04]&style=flat&branch=6.x&logo=librarything&colorA=ca4141&colorB=fff)](https://bootcamp.lidemy.com/) 
+## 😉 It's Pinellia [![](https://img.shields.io/static/v1?label=idemy&message=[MTR04]&style=flat&branch=6.x&logo=librarything&colorA=ca4141&colorB=fff)](https://bootcamp.lidemy.com/)  [![](https://www.codewars.com/users/roroiii/badges/micro)](https://www.codewars.com/users/roroiii) 
+
 
 
 I'm a front-end engineer who switched from marketing to coding by myself.
