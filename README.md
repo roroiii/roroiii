@@ -1,6 +1,6 @@
-### Hi there 👋  
 
-## 😉 It's Tina [![](https://img.shields.io/static/v1?label=idemy&message=[MTR04]&style=flat&branch=6.x&logo=librarything&colorA=ca4141&colorB=fff)](https://bootcamp.lidemy.com/) 
+
+## 😉 It's Pinellia [![](https://img.shields.io/static/v1?label=idemy&message=[MTR04]&style=flat&branch=6.x&logo=librarything&colorA=ca4141&colorB=fff)](https://bootcamp.lidemy.com/) 
 
 
 I'm a front-end engineer who switched from marketing to coding by myself.
@@ -10,8 +10,8 @@ I'm excited to share my learning process with you and hope you find it helpful a
 
 <!-- <div>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=roroiii" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=roroiii" height="150" alt="languages graph"  />
-</div>
+<!--   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=roroiii" height="150" alt="languages graph"  />
+</div> -->
 
 
 
